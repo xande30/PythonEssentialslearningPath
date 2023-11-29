@@ -1,0 +1,14 @@
+#demonastrating classes and objects
+
+class Classy:
+	variable = 13
+	def __init__(self):
+		self.var = 17
+	def method(self):
+		pass
+	def __hidden(self):
+		pass
+
+obj = Classy()
+
+
